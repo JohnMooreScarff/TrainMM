@@ -19,5 +19,8 @@
 			"Name": "MeshTerrainMode",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
