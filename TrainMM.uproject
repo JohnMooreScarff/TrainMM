@@ -18,6 +18,10 @@
 		{
 			"Name": "MeshTerrainMode",
 			"Enabled": true
+		},
+		{
+			"Name": "VirtualProductionUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
